@@ -2,6 +2,7 @@
     "version": "0.1.0",
     // "debugServer": "4712",
     "configurations": [
+		nodeDebug
         {
             "name": "launch as server",
             "type": "node",
